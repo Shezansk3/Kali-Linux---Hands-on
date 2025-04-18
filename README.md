@@ -102,15 +102,15 @@ To understand and apply basic Linux commands, install Kali Linux tools, and perf
 
 - Vulnerable Parameter: artist (GET)
 - Injection Types Detected:
-- Boolean-based
-- Error-based
-- Time-based
-- UNION-based
-- Backend DBMS: MySQL ≥ 5.6
-- Web Server: Nginx 1.19.0, PHP 5.6.40
-- Databases Found:
-- 1. acuart
-- 2. Information_schema
+    - Boolean-based
+    - Error-based
+    - Time-based
+    - UNION-based
+    - Backend DBMS: MySQL ≥ 5.6
+    - Web Server: Nginx 1.19.0, PHP 5.6.40
+    - Databases Found:
+      - 1. acuart
+      - 2. Information_schema
 
 ---
 
